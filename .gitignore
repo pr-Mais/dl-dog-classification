@@ -1,3 +1,5 @@
 /lfw/
 /dogImages/
 /.DS_Store
+model_transfer.pt
+model_scratch.pt
